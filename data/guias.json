@@ -1,0 +1,78 @@
+[
+  {
+    "slug": "musica-sin-copyright-tiktok",
+    "titulo": "Música sin copyright para TikTok: dónde conseguirla y qué revisar",
+    "descripcion": "Dónde buscar música gratis con licencia clara para tus videos de TikTok y qué mirar antes de usarla, explicado en español.",
+    "resumen": "Qué significa realmente \"sin copyright\" y dónde buscar música con licencia clara.",
+    "bloques": [
+      { "p": ["Mucha gente busca \"música sin copyright\", pero lo que importa es la licencia: el permiso que da el autor. Una pista puede ser gratis y aun así pedirte que nombres al autor o no dejarte usarla si tu video gana plata."] },
+      { "h2": "Dónde buscar", "lista": [
+        ["pixabay-musica", "Pixabay Música: tiene versión en español, permite uso comercial y no exige dar crédito."],
+        ["mixkit", "Mixkit: su licencia gratuita permite uso comercial sin crédito, pero hay una licencia restringida solo para uso personal. Revisá la de la pista que elijas."],
+        ["freesound", "Freesound: sobre todo sonidos y efectos. Cada archivo tiene su licencia, así que filtrá antes de descargar."]
+      ] },
+      { "h2": "Qué revisar antes de usarla", "puntos": [
+        "Si la pista pide crédito y, si lo pide, poné el nombre del autor en la descripción.",
+        "Si dice \"no comercial\": en ese caso no sirve si tu cuenta gana plata o promociona algo.",
+        "Guardá el enlace a la licencia de cada pista que uses, por si necesitás mostrarlo después."
+      ] },
+      { "h2": "Si tu cuenta es de empresa o promocionás algo", "p": ["Según una nota de prensa de 2020, TikTok pidió a las cuentas de empresa verificadas que usen su biblioteca de música comercial. Es una nota antigua y las reglas pueden haber cambiado, así que confirmá en el centro de ayuda de TikTok qué música podés usar."] }
+    ]
+  },
+  {
+    "slug": "que-significa-royalty-free",
+    "titulo": "Qué significa royalty free (libre de regalías) y qué no significa",
+    "descripcion": "Royalty free quiere decir sin regalías, pero eso no significa que no haya reglas. Qué mirar en la licencia antes de usar música o imágenes.",
+    "resumen": "Sin regalías no es lo mismo que sin reglas.",
+    "bloques": [
+      { "p": ["Royalty free se traduce como \"libre de regalías\": no tenés que pagar cada vez que usás el archivo ni por cada reproducción de tu video."] },
+      { "h2": "Lo que no significa", "p": ["No significa que puedas hacer cualquier cosa. Cada sitio pone sus condiciones. Por ejemplo, la licencia de Pixabay no te deja vender el archivo tal cual lo bajaste, y si una imagen muestra una marca o un logo reconocible, no podés usarla para promocionar un producto o servicio."] },
+      { "h2": "Lo que conviene mirar siempre", "puntos": [
+        "Si te permite uso comercial.",
+        "Si te pide dar crédito al autor.",
+        "Si prohíbe revender o redistribuir el archivo.",
+        "Si el contenido tiene otros derechos, como marcas o personas reconocibles."
+      ] },
+      { "h2": "Dónde ver ejemplos", "lista": [
+        ["pixabay-musica", "Pixabay Música"],
+        ["pixabay-imagenes", "Pixabay Imágenes y Videos"],
+        ["pexels", "Pexels"]
+      ] }
+    ]
+  },
+  {
+    "slug": "licencias-creative-commons-videos",
+    "titulo": "Licencias Creative Commons para videos: CC0, CC BY y CC BY-NC",
+    "descripcion": "Qué permite cada licencia Creative Commons que vas a ver en sitios de sonidos y cuál conviene si tu video gana plata.",
+    "resumen": "Las tres licencias Creative Commons más comunes, explicadas simple.",
+    "bloques": [
+      { "p": ["En sitios como Freesound vas a ver licencias Creative Commons, con siglas en inglés. Estas son las tres más comunes."] },
+      { "h2": "CC0", "p": ["Es la más libre. Podés hacer prácticamente lo que quieras con el sonido, incluso venderlo. No podés decir que lo hiciste vos."] },
+      { "h2": "CC BY (atribución)", "p": ["Podés usarlo, incluso en un video que gana plata, pero siempre tenés que nombrar al autor original."] },
+      { "h2": "CC BY-NC (atribución no comercial)", "p": ["Igual que la anterior, pero no podés ganar dinero con lo que hagas. Si tu video está monetizado o promociona algo, no es compatible: necesitarías permiso del autor."] },
+      { "h2": "Mezclar sonidos de distintas licencias", "p": ["Si combinás sonidos con licencias diferentes, la licencia del resultado queda limitada. Por ejemplo, un sonido BY-NC no se puede compartir como si fuera CC0."] },
+      { "h2": "Cómo elegir en la práctica", "lista": [
+        ["freesound", "En Freesound, filtrá por licencia y elegí CC0 o CC BY si tu cuenta gana plata. Guía paso a paso."]
+      ] }
+    ]
+  },
+  {
+    "slug": "puedo-usar-esta-cancion",
+    "titulo": "¿Puedo usar esta canción en mi video? Cómo decidirlo",
+    "descripcion": "Una forma simple de decidir si podés usar una canción en tu video de TikTok sin arriesgar que lo silencien o lo borren.",
+    "resumen": "Una forma simple de decidir antes de subir.",
+    "bloques": [
+      { "p": ["Una canción conocida tiene dueños y casi nunca podés usarla fuera de lo que la plataforma te habilita. Si la usás sin permiso, el video puede ser silenciado o borrado."] },
+      { "h2": "Tres preguntas antes de usarla", "puntos": [
+        "¿La bajaste de un sitio que muestra su licencia? Si no encontrás la licencia, asumí que no podés usarla.",
+        "¿La licencia permite lo que vas a hacer? Fijate si pide crédito o si dice \"no comercial\".",
+        "¿Tu cuenta gana plata o promociona algo? En ese caso evitá todo lo \"no comercial\"."
+      ] },
+      { "h2": "Alternativas más seguras", "lista": [
+        ["pixabay-musica", "Pixabay Música, con licencia clara y versión en español."],
+        ["mixkit", "Mixkit, con música gratis para videos."]
+      ] },
+      { "p": ["Si tu cuenta es de empresa, confirmá en el centro de ayuda de TikTok qué música podés usar. Esta guía no reemplaza los términos de cada servicio ni un consejo legal."] }
+    ]
+  }
+]

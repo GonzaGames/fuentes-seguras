@@ -1,0 +1,34 @@
+{
+  "basico": [
+    { "titulo": "Por qué importa", "texto": "Las canciones y muchos sonidos tienen dueño. Si los usás sin permiso, la plataforma puede silenciar tu video, borrarlo o avisarte de un problema de derechos de autor." },
+    { "titulo": "Qué es una licencia", "texto": "Es el permiso del dueño. Dice qué podés hacer con el archivo: usarlo en tus videos, modificarlo, ganar plata con él y si tenés que nombrar al autor." },
+    { "titulo": "Los tres casos que vas a ver", "lista": [
+      ["Libre y sin crédito:", "lo usás y no hace falta nombrar a nadie."],
+      ["Libre con crédito:", "lo usás y ponés el nombre del autor en la descripción."],
+      ["No comercial:", "solo si tu video no gana plata ni promociona nada."]
+    ] },
+    { "titulo": "Para qué sirven estos sitios", "texto": "Son bibliotecas donde los autores dejaron música, sonidos e imágenes para que cualquiera los use bajo una licencia clara. Así sabés de antemano qué podés hacer, en vez de adivinar." }
+  ],
+  "avisoTiktok": "Según una nota de prensa de 2020, TikTok pidió a las cuentas de empresa verificadas que usen su Biblioteca de Música Comercial en vez de canciones populares. Esa nota es antigua y las reglas pueden haber cambiado, así que no la tomamos como definitiva. Si tu cuenta es de empresa o promocionás un producto, confirmá en el centro de ayuda de TikTok qué música podés usar.",
+  "glosario": [
+    ["Royalty free", "Sin regalías: no pagás cada vez que lo usás."],
+    ["Free download", "Descarga gratis."],
+    ["License", "Licencia: las reglas de uso del archivo."],
+    ["Attribution", "Atribución: dar crédito al autor."],
+    ["Commercial use", "Uso comercial: si ganás plata o promocionás algo con el video."],
+    ["Non-commercial", "No comercial: no sirve si tu video gana plata."],
+    ["Creative Commons 0 (CC0)", "Sin restricciones: uso libre."],
+    ["Sound effects", "Efectos de sonido."],
+    ["Genre / Mood / Instrument / Tag", "Género / estado de ánimo / instrumento / etiqueta."],
+    ["Trending", "En tendencia."],
+    ["Log in / Join", "Iniciar sesión / Unirse."],
+    ["Download", "Descargar."]
+  ],
+  "checklist": [
+    "Anotá de dónde sacaste cada sonido o imagen y guardá el enlace a su licencia.",
+    "Fijate si esa pista pide crédito y, si lo pide, ponelo en la descripción.",
+    "Si tu cuenta gana plata o promociona algo, evitá cualquier archivo con licencia \"no comercial\".",
+    "Si promocionás un producto, no uses imágenes con marcas o logos reconocibles.",
+    "Si tu cuenta es de empresa, confirmá en el centro de ayuda de TikTok qué música podés usar."
+  ]
+}

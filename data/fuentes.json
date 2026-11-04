@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "pixabay-musica",
+    "nombre": "Pixabay Música",
+    "tipo": "Música",
+    "badge": { "clase": "ok", "texto": "Sin atribución" },
+    "permite": "Usar la música gratis, también en proyectos comerciales, y modificarla. No exige dar crédito al autor, aunque lo agradece.",
+    "ojo": "No podés revender el archivo tal cual. Algunas pistas pueden tener otros derechos, así que conviene mirar cada una.",
+    "idioma": "Tiene versión en español.",
+    "pasos": [
+      "Entrá a pixabay.com/es/music. Todo el sitio aparece en español.",
+      "Escribí lo que buscás en el cuadro \"Buscar música\", o tocá una de las palabras sugeridas debajo, como \"música de fondo para videos\".",
+      "Escuchá la pista y, para bajarla, tocá el ícono de la flecha hacia abajo que está a la derecha de cada fila.",
+      "Arriba a la derecha hay botones \"Iniciar sesión\" y \"Unirme\". No comprobamos si para descargar te piden cuenta."
+    ],
+    "url": "https://pixabay.com/es/music/",
+    "verificado": "Licencia de Pixabay",
+    "pagina": true,
+    "tituloSeo": "Cómo usar Pixabay Música para tus videos de TikTok",
+    "descripcionSeo": "Paso a paso en español para buscar y descargar música gratis en Pixabay, qué permite su licencia y qué revisar antes de usarla en TikTok."
+  },
+  {
+    "slug": "mixkit",
+    "nombre": "Mixkit",
+    "tipo": "Música",
+    "badge": { "clase": "warn", "texto": "Revisar cada archivo" },
+    "permite": "Con la licencia gratuita: uso comercial en videos de YouTube, redes sociales y anuncios, sin atribución.",
+    "ojo": "Existe una licencia restringida solo para proyectos personales y no comerciales. No pudimos confirmar cuál corresponde a cada pista, así que mirá la de la pista que elijas.",
+    "idioma": "Solo en inglés.",
+    "pasos": [
+      "Entrá a mixkit.co/free-stock-music.",
+      "Buscá en el cuadro \"Search\" o usá los filtros de arriba: Genre (género), Mood (estado de ánimo), Instrument (instrumento) y Tag (etiqueta).",
+      "Tocá el botón de play para escuchar y el ícono de descarga que está en cada pista para bajarla.",
+      "La propia página dice que no hace falta registrarse ni dar crédito para la música."
+    ],
+    "url": "https://mixkit.co/free-stock-music/",
+    "verificado": "Página de licencias de Mixkit",
+    "pagina": true,
+    "tituloSeo": "Cómo usar Mixkit para conseguir música gratis para TikTok",
+    "descripcionSeo": "Guía en español de Mixkit: cómo buscar música gratis, qué filtros usar y qué licencia revisar antes de subir tu video."
+  },
+  {
+    "slug": "freesound",
+    "nombre": "Freesound",
+    "tipo": "Sonidos",
+    "badge": { "clase": "warn", "texto": "Depende de la licencia" },
+    "permite": "Efectos y sonidos con licencias Creative Commons. CC0: uso libre. CC BY: libre, pero tenés que dar crédito al autor.",
+    "ojo": "Los sonidos CC BY-NC no se pueden usar si ganás dinero con el video. Filtrá por licencia antes de descargar.",
+    "idioma": "Solo en inglés.",
+    "pasos": [
+      "Entrá a freesound.org y escribí lo que buscás en inglés en el cuadro \"Search sounds...\" (por ejemplo, whoosh para un efecto de pasada).",
+      "En la columna de filtros abrí \"License\" (licencia) y elegí \"Creative Commons 0\" o \"Attribution\". La opción \"Approved for Free Cultural Works\" reúne las dos.",
+      "Evitá los resultados que dicen \"Attribution NonCommercial\" si tu video gana plata. Cada resultado muestra su licencia.",
+      "Arriba a la derecha hay botones \"Log in\" (iniciar sesión) y \"Join\" (unirse). No comprobamos si para descargar te piden cuenta."
+    ],
+    "url": "https://freesound.org/",
+    "verificado": "Preguntas frecuentes de Freesound",
+    "pagina": true,
+    "tituloSeo": "Cómo usar Freesound para efectos de sonido en tus videos",
+    "descripcionSeo": "Cómo buscar efectos de sonido en Freesound y filtrar por licencia para no tener problemas en TikTok: guía paso a paso en español."
+  },
+  {
+    "slug": "pexels",
+    "nombre": "Pexels",
+    "tipo": "Imágenes y video",
+    "badge": { "clase": "ok", "texto": "Sin atribución" },
+    "permite": "Fotos y videos gratis para uso personal y comercial, sin dar crédito.",
+    "ojo": "La página de ayuda no detalla las restricciones; revisá la licencia completa de Pexels antes de usarlo en publicidad.",
+    "idioma": "Tiene versión en español.",
+    "pasos": [
+      "Entrá a pexels.com/videos. Abajo aparece un cartel \"Choose your language\": tocá \"Español\".",
+      "Buscá en el cuadro de búsqueda de videos y elegí entre los resultados.",
+      "El enlace \"License\" de la barra de arriba lleva a las reglas de uso."
+    ],
+    "url": "https://www.pexels.com/",
+    "verificado": "Centro de ayuda de Pexels",
+    "pagina": true,
+    "tituloSeo": "Cómo usar Pexels para conseguir videos e imágenes gratis",
+    "descripcionSeo": "Guía en español para buscar videos e imágenes gratis en Pexels y entender qué permite su licencia."
+  },
+  {
+    "slug": "pixabay-imagenes",
+    "nombre": "Pixabay Imágenes y Videos",
+    "tipo": "Imágenes y video",
+    "badge": { "clase": "ok", "texto": "Sin atribución" },
+    "permite": "Imágenes y videos gratis, también comerciales, sin dar crédito.",
+    "ojo": "Si se ve una marca o un logo reconocible, no lo uses para promocionar un producto o servicio. Tampoco con personas reconocibles en usos engañosos.",
+    "idioma": "Tiene versión en español.",
+    "pasos": [
+      "Entrá a pixabay.com/es.",
+      "Arriba del buscador elegí \"Fotos\" o \"Vídeos\" y escribí lo que buscás."
+    ],
+    "url": "https://pixabay.com/es/",
+    "verificado": "Licencia de Pixabay",
+    "pagina": true,
+    "tituloSeo": "Cómo usar Pixabay para imágenes y videos gratis",
+    "descripcionSeo": "Cómo buscar imágenes y videos en Pixabay en español y qué restricciones tiene su licencia, por ejemplo con marcas y logos."
+  },
+  {
+    "slug": "tiktok-creative-center",
+    "nombre": "TikTok Creative Center",
+    "tipo": "Tendencias",
+    "badge": { "clase": "ok", "texto": "Herramienta oficial" },
+    "permite": "Ver qué sonidos y hashtags están en tendencia, directamente desde TikTok.",
+    "ojo": "No es una fuente de licencias: que un sonido esté en tendencia no significa que lo puedas usar en cualquier cuenta. La cobertura por país puede variar.",
+    "idioma": "Sin verificar todavía.",
+    "pasos": [],
+    "url": "https://ads.tiktok.com/business/creativecenter",
+    "verificado": "sin verificar todavía",
+    "pagina": false
+  }
+]
